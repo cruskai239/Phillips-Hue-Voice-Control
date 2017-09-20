@@ -1,0 +1,12 @@
+c:\users\chris\documents\visual studio 2017\Projects\HueVoice\HueVoice\bin\Debug\HueVoice.exe.config
+c:\users\chris\documents\visual studio 2017\Projects\HueVoice\HueVoice\bin\Debug\HueVoice.exe
+c:\users\chris\documents\visual studio 2017\Projects\HueVoice\HueVoice\bin\Debug\HueVoice.pdb
+c:\users\chris\documents\visual studio 2017\Projects\HueVoice\HueVoice\obj\Debug\HueVoice.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2017\Projects\HueVoice\HueVoice\obj\Debug\HueVoice.exe
+c:\users\chris\documents\visual studio 2017\Projects\HueVoice\HueVoice\obj\Debug\HueVoice.pdb
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\Phillips-Hue-Voice-Control\HueVoice\bin\Debug\HueVoice.exe.config
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\Phillips-Hue-Voice-Control\HueVoice\bin\Debug\HueVoice.exe
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\Phillips-Hue-Voice-Control\HueVoice\bin\Debug\HueVoice.pdb
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\Phillips-Hue-Voice-Control\HueVoice\obj\Debug\HueVoice.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\Phillips-Hue-Voice-Control\HueVoice\obj\Debug\HueVoice.exe
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\Phillips-Hue-Voice-Control\HueVoice\obj\Debug\HueVoice.pdb
